@@ -39,4 +39,4 @@ XSS Prevention: All inputs sanitized against cross-site scripting
 SQL Injection Protection: Secure data handling practices
 Email Validation: Strict email format and domain validation
 Data Sanitization: All user inputs cleaned and validated
-Form Validation: Comprehensive client and server-side validation
+Form Validation: Comprehensive client and server-side validation 
