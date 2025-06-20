@@ -4,8 +4,8 @@ Secure voting application for BNMIT elections.
 To set up:
 1. Clone this repository
 2. In command window
-   cd # file location
-   npm install
+   cd your-file-location,
+   npm install,
    npm run dev
 
 Security feastures:
